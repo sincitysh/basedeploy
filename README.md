@@ -22,7 +22,7 @@
 ```
 project/
 ├── scripts/
-│   └── deploy.js        # 部署脚本
+│   └── basedeploy.js        # 部署脚本
 ├── private_keys.txt     # 存放私钥的文件
 ├── config.json          # 配置文件
 ├── contracts/
@@ -189,4 +189,3 @@ Deployment completed for all private keys.
 
 如果您在使用过程中遇到问题，请通过以下方式联系：
 - 提交 GitHub Issue
-- 发送邮件至 `support@example.com`
